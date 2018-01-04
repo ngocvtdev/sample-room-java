@@ -23,7 +23,7 @@
 
         <!-- Liberty server properties -->
         <wlpServerName>gojava-room</wlpServerName>
-        <testServerHttpPort>9080</testServerHttpPort>
+        <testServerHttpPort>8080</testServerHttpPort>
         <testServerHttpsPort>9443</testServerHttpsPort>
         <!--This is set in the ibm-web-ext.xml file -->
         <warContext></warContext>
