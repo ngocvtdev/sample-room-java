@@ -1,1 +1,1 @@
-mvn liberty:run-server
+web: mvn liberty:run-server
